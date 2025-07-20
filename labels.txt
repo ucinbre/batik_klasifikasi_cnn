@@ -1,0 +1,1 @@
+{"aceh_motif_pintu": 0, "cirebon_motif_mega_mendung": 1, "kalimantan_tengah_motif_batang_garing": 2, "madura_motif_bunga": 3, "makasar_motif_lontara": 4, "medan_motif_ulos": 5, "palembang_motif_jumputan": 6, "papua_motif_cendrawasih": 7, "pekalongan_motif_pagi_sore": 8, "solo_motif_kawung": 9, "yogya_solo_motif_parang": 10}
